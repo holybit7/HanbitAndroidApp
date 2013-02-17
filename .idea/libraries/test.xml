@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="test">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/test/robolectric-gem.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/test/asm-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/test/asm-commons-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/test/junit-4.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/test/great-expectations.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -14,5 +14,15 @@
     android:layout_width="fill_parent"
     android:layout_height="wrap_content"
     />
+<Button
+    android:id="@+id/button_jin1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:layout_marginBottom="22dp"
+    android:layout_marginRight="20dp"
+    android:layout_toLeftOf="@+id/current_time"
+    android:text="JinTest"
+    />
 </LinearLayout>
 

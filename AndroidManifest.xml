@@ -26,6 +26,7 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+        <activity android:name="page_jintest"></activity>
 
         <!-- C2DM START C2DM START C2DM START C2DM START C2DM START C2DM START C2DM START -->
         <!-- C2DM Note: C2DM is only supported in API v2.2 and above but is safely ignored in lower versions -->
