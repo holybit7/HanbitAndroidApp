@@ -24,5 +24,7 @@
     android:layout_toLeftOf="@+id/current_time"
     android:text="JinTest"
     />
+
+
 </LinearLayout>
 

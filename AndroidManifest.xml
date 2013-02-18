@@ -18,6 +18,7 @@
     <application
         android:label="@string/app_name"
         android:icon="@drawable/icon"
+        android:debuggable="true"
         android:name=".MySampleApplication">
         <activity android:name=".StarterActivity"
                   android:label="@string/app_name">
@@ -27,6 +28,7 @@
             </intent-filter>
         </activity>
         <activity android:name="page_jintest"></activity>
+        <activity android:name="page_jin_graphic_test"></activity>
 
         <!-- C2DM START C2DM START C2DM START C2DM START C2DM START C2DM START C2DM START -->
         <!-- C2DM Note: C2DM is only supported in API v2.2 and above but is safely ignored in lower versions -->

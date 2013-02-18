@@ -12,4 +12,15 @@ android:layout_height="wrap_content"
 android:text="Large Text"
 android:textAppearance="?android:attr/textAppearanceLarge" />
 
+<Button
+  android:id="@+id/button_jin2"
+  android:layout_width="match_parent"
+  android:layout_height="wrap_content"
+  android:layout_alignParentBottom="true"
+  android:layout_marginBottom="22dp"
+  android:layout_marginRight="20dp"
+  android:layout_toLeftOf="@+id/current_time"
+  android:text="GraphicTest"
+  />
+
 </LinearLayout>
